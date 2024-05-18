@@ -1,0 +1,226 @@
+
+.navbar ul{
+    list-style-type:none;
+    background-color:white;
+    padding:0px;
+    margin:0px;
+    overflow : hidden;
+}
+.navbar a{
+    color:black;
+     text-decoration:none;
+     padding:15px;
+     display:block;
+     text-align:center;
+     display:inline;
+}
+
+li{
+    display:inline;
+   
+}
+.navbar a:hover{
+    background-color:black;
+    color:white;
+    
+   
+}
+#title{
+    background-color:black;
+    color:white;
+    margin:0px;
+    padding:10px;
+}
+#belownavigation{
+    background-color:rgb(206, 200, 200);
+    color:black;
+    height:30px;
+}
+.img{
+    vertical-align: top;
+    margin-right: 10px; 
+
+}
+
+
+.navbar2 a{
+    color:black;
+    text-decoration:none;
+     padding:15px;
+     display:block;
+     text-align:center;
+     display:inline;
+     font-size: 20px;;
+}
+.navbar2 a:hover{
+    background-color:black;
+    color:white;
+    font-size: 20px;
+}
+
+
+#searchbar{
+    display: none;
+}
+.searchBar{
+    float :right;
+}
+#corner{
+    float:right;
+}
+.sanket{
+    float:right
+}
+.rashmi{
+    float:left;
+    
+}
+.rashmi2{
+    float:left;
+    
+}
+.rashmi3{
+    float:left;
+    
+}
+
+.sanket{
+
+    
+}
+.side{
+    background-color:rgb(238, 235, 235);
+    width:280px;
+    height:110px;
+    display:block;
+    margin:10px;
+
+}
+.sideimg{
+    width:35%;
+    height:100%;
+    float:left;
+}
+.side a{
+    color:black;
+}
+.rashmi1{
+    float:left;
+    position:relative;
+}
+.img-container {
+    clear: both;
+    margin :10px;
+    
+}
+.img-container img {
+    margin: 0;
+    padding: 0;
+}
+.corner1{
+    float:right;
+}
+#title{
+    padding:10px;
+    font-size:50px;
+}
+.navbar{
+    padding:10px;
+    box-sizing: border-box; 
+}
+#belownavigation{
+    padding:5px;
+}
+.rashmi1{
+    width:20%;
+    
+height:510px;
+}
+#img3{
+    width:280px;
+    height:275px;
+}
+#img4{
+    width:270px;
+    height:244px;
+    float:left;
+}
+#img1{
+    width:550px;
+    height:525px;
+    margin:5px;
+}
+#img2{
+    width:274px;
+    height:528px;
+}
+.side a {
+    color: black;
+    text-decoration: none;
+}
+.rashmi{
+    position: relative;
+    width: 530px; 
+    height: 530px;
+  }
+  
+  .img{
+    width: 100%;
+    height: auto;
+  }
+  
+  .text {
+    position: absolute;
+    top: 90%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color:black;
+    font-size: 24px;
+       
+    background-color: rgba(255, 255, 255, 0.5); 
+    padding: 10px;
+  }
+  .button1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    box-sizing: border-box;
+    border-radius: 10%;
+  }
+  .text2 {
+    position: absolute;
+    top: 88%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    color:black;
+    font-size: 24px;
+       
+    background-color: rgba(255, 255, 255, 0.5); 
+  }
+  .text3 {
+    position: absolute;
+    top: 41%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    color:black;
+    font-size: 18px;
+       
+    background-color: rgba(255, 255, 255, 0.5); 
+    padding: 10px;
+  }
+  .text4 {
+    position: absolute;
+    top: 88%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    color:black;
+    font-size: 17px;
+       
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 10px;
+  }
+
+  .button1:hover{
+    background-color:rgb(6, 7, 7);
+    color:white;
+    font-size: larger;
+}
